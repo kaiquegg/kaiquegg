@@ -1,4 +1,4 @@
-<h1 align="center">🧑‍💻 Opa, eu sou Kaíque - Desenvolvedor Front-end</h1>
+<h1 align="center">🧑‍💻 Kaíque - Desenvolvedor FullStack Web</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/kaique-egg" target="_blank">
@@ -11,10 +11,11 @@
 
 ---
 
-💜 Atualmente atuo como TI - Service Desk, na **Rede Lius Agostinianos**  
-🚀 Desenvolvedor FullStack com foco em **Front-end SaaS**, utilizando **Next.js** e **TypeScript**  
-📚 Estudo de forma **autodidata**, buscando evolução constante e soluções criativas  
-🎻 Tenho 21 anos e toco mais de **4 instrumentos musicais**, todos aprendidos por esforço vontade própria 🎶
+📖 Atualmente realizando bacharelado em Engenharia de software na **Universidade Santo Amaro (UNISA)** <br/>
+📕 Formado Técnico em informática pela **Escola Profissionalizando Santo Agostinho (EPSA)** <br/>
+🚀 Desenvolvedor **FullStack** com foco em aplicações SaaS escaláveis utilizando Next.js, TypeScript e arquitetura moderna de APIs. <br/>
+📚 Foco em evolução contínua, arquitetura limpa e boas práticas de código.<br/> 
+🎻 Tenho 22 anos e toco mais de **4 instrumentos musicais**, todos aprendidos por esforço vontade própria 🎶 <br/>
 
 ---
 
